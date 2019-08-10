@@ -1,2 +1,6 @@
 # chat-app
-Chat application using Socket.IO
+Chat application build using:
+Express.js
+MongoDB
+Socket.IO
+
